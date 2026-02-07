@@ -1,0 +1,24 @@
+{
+  "id": "deck_001",
+  "title": "İngilizce: Temel Fiiller",
+  "cards": [
+    {
+      "front": "To Go",
+      "back": "Gitmek",
+      "frontImage": null,
+      "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+      "front": "To Eat",
+      "back": "Yemek Yemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "To Run",
+      "back": "Koşmak",
+      "frontImage": null,
+      "backImage": null
+    }
+  ]
+}
