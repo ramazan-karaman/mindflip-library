@@ -18,5 +18,15 @@
     "cardCount": 5,
     "remoteUrl": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/decks/yazilim-terimleri.json",
     "coverImage": null
+  },
+  {
+    "id": "eng_oxford_a1_safe",
+    "title": "İngilizce A1: Temel Kelimeler",
+    "description": "Oxford listesinden en sık kullanılan kelimeler.",
+    "category": "Dil",
+    "level": "Başlangıç",
+    "cardCount": 500, 
+    "remoteUrl": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/decks/oxford_a1_temel.json",
+    "coverImage": null
   }
 ]
