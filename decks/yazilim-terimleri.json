@@ -1,0 +1,37 @@
+{
+  "id": "soft_dev_v1",
+  "title": "Yazılım Terimleri 101",
+  "description": "Junior geliştiriciler için mülakatlarda çıkan temel kavramlar.",
+  "cards": [
+    {
+      "front": "API",
+      "back": "Application Programming Interface: İki yazılımın birbiriyle konuşmasını sağlayan arayüz.",
+      "frontImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/api.png",
+      "backImage": null
+    },
+    {
+      "front": "Bug",
+      "back": "Yazılım hatası. Kodun beklenmeyen bir şekilde çalışması.",
+      "frontImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/bug.png",
+      "backImage": null
+    },
+    {
+      "front": "Database",
+      "back": "Veritabanı: Verilerin yapısal olarak saklandığı ve sorgulandığı sistem (Örn: SQLite, PostgreSQL).",
+      "frontImage": null,
+      "backImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/database.png"
+    },
+    {
+      "front": "Git",
+      "back": "Versiyon kontrol sistemi. Kod değişikliklerini takip etmeyi sağlar.",
+      "frontImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/git.png",
+      "backImage": null
+    },
+    {
+      "front": "Frontend",
+      "back": "Ön Yüz: Kullanıcının gördüğü ve etkileşime girdiği kısım (React, Vue, HTML/CSS).",
+      "frontImage": null,
+      "backImage": null
+    }
+  ]
+}
