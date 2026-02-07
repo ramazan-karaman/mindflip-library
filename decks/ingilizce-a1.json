@@ -1,0 +1,37 @@
+{
+  "id": "eng_a1_v1",
+  "title": "İngilizce A1",
+  "description": "Günlük hayatta en sık kullanılan temel kelimeler ve fiiller.",
+  "cards": [
+    {
+      "front": "Apple",
+      "back": "Elma",
+      "frontImage": null,
+      "backImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/elma.png"
+    },
+    {
+      "front": "To Run",
+      "back": "Koşmak (Fiil)",
+      "frontImage": null,
+      "backImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/kosmak.png"
+    },
+    {
+      "front": "Book",
+      "back": "Kitap",
+      "frontImage": null,
+      "backImage": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/images/kitap.png"
+    },
+    {
+      "front": "Water",
+      "back": "Su",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cat",
+      "back": "Kedi",
+      "frontImage": null,
+      "backImage": null
+    }
+  ]
+}
