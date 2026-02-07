@@ -1,0 +1,5545 @@
+{
+  "id": "eng_oxford_a1_safe",
+  "title": "İngilizce A1",
+  "description": "Oxford 5000 listesinden seçilmiş temel kelimeler.",
+  "cards": [
+    {
+      "front": "About",
+      "back": "Hakkında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Above",
+      "back": "Üstünde",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Across",
+      "back": "Karşısında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Action",
+      "back": "Aksiyon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Activity",
+      "back": "Aktivite",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Actor",
+      "back": "Aktör",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Actress",
+      "back": "Aktris",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Add",
+      "back": "Eklemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Address",
+      "back": "Adres",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Adult",
+      "back": "Yetişkin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Advice",
+      "back": "Tavsiye",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Afraid",
+      "back": "Korkmuş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "After",
+      "back": "Sonrasında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Afternoon",
+      "back": "Öğleden sonra",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Again",
+      "back": "Tekrar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Age",
+      "back": "Yaş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ago",
+      "back": "Evvel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Agree",
+      "back": "Kabul etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Air",
+      "back": "Hava",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Airport",
+      "back": "Havalimanı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "All",
+      "back": "Tümü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Also",
+      "back": "Ayrıca",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Always",
+      "back": "Her zaman",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Amazing",
+      "back": "Inanılmaz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "And",
+      "back": "Ve",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Angry",
+      "back": "Sinirli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Animal",
+      "back": "Hayvan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Another",
+      "back": "Bir diğer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Answer",
+      "back": "Cevap",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Any",
+      "back": "Herhangi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Anybody",
+      "back": "Kimse",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Anyone",
+      "back": "Herhangi biri",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Anything",
+      "back": "Herhangi bir şey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Anyway",
+      "back": "Her neyse",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Anywhere",
+      "back": "Herhangi bir yer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Apartment",
+      "back": "Daire",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "App",
+      "back": "Uygulama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Appear",
+      "back": "Belli olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Appearance",
+      "back": "Dış görünüş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Apple",
+      "back": "Elma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Apply",
+      "back": "Uygula",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "April",
+      "back": "Nisan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Architect",
+      "back": "Mimar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Architecture",
+      "back": "Mimari",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Area",
+      "back": "Alan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Argue",
+      "back": "Tartışmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Argument",
+      "back": "Argüman",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Arm",
+      "back": "Kol",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Arm",
+      "back": "Kol",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Army",
+      "back": "Ordu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Around",
+      "back": "Etrafında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Arrange",
+      "back": "Düzenlemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Arrangement",
+      "back": "Ayarlama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Arrive",
+      "back": "Varmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Art",
+      "back": "Sanat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Article",
+      "back": "Makale, madde",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Artist",
+      "back": "Sanatçı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "As",
+      "back": "Gibi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ask",
+      "back": "Sormak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Asleep",
+      "back": "Uyuya kalmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Assistant",
+      "back": "Asistan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "At",
+      "back": "-de -da",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Athlete",
+      "back": "Atlet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Attack",
+      "back": "Saldırı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Attend",
+      "back": "Katılmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Attention",
+      "back": "Dikkat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Attractive",
+      "back": "Çekici",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Audience",
+      "back": "Kitle",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "August",
+      "back": "Ağustos",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Aunt",
+      "back": "Hala",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Author",
+      "back": "Yazar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Autumn",
+      "back": "Sonbahar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Available",
+      "back": "Mevcut",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Average",
+      "back": "Ortalama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Avoid",
+      "back": "Kaçınmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Award",
+      "back": "Ödül",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Away",
+      "back": "Uzak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Awful",
+      "back": "Berbat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Baby",
+      "back": "Bebek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Back",
+      "back": "Geri, arka",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Background",
+      "back": "Arka plan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bad",
+      "back": "Kötü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bag",
+      "back": "Çanta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ball",
+      "back": "Top",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Banana",
+      "back": "Muz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Band",
+      "back": "Grup, bant",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bank",
+      "back": "Banka",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bath",
+      "back": "Banyo",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bathroom",
+      "back": "Banyo",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Be",
+      "back": "Olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Beach",
+      "back": "Sahil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Beautiful",
+      "back": "Güzel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Because",
+      "back": "Çünkü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Become",
+      "back": "Haline gelmek, olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bed",
+      "back": "Yatak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bedroom",
+      "back": "Yatak odası",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Beer",
+      "back": "Bira",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Before",
+      "back": "Önce",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Begin",
+      "back": "Başlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Beginning",
+      "back": "Başlangıç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Behind",
+      "back": "Arka",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Believe",
+      "back": "Inanmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Below",
+      "back": "Altında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Best",
+      "back": "En iyi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Better",
+      "back": "Daha iyi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Between",
+      "back": "Arasında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bicycle",
+      "back": "Bisiklet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Big",
+      "back": "Büyük",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bike",
+      "back": "Bisiklet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bill",
+      "back": "Fatura",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bird",
+      "back": "Kuş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Birthday",
+      "back": "Doğum günü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Black",
+      "back": "Siyah",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Blonde",
+      "back": "Sarışın",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Blue",
+      "back": "Mavi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Boat",
+      "back": "Bot",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Body",
+      "back": "Vücut",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Book",
+      "back": "Kitap",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Boot",
+      "back": "Bot",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bored",
+      "back": "Sıkılmış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Boring",
+      "back": "Sıkıcı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Born",
+      "back": "Doğmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Both",
+      "back": "Her ikisi de",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bottle",
+      "back": "Şişe",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Box",
+      "back": "Kutu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Boy",
+      "back": "Erkek çocuk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Boyfriend",
+      "back": "Erkek arkadaş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bread",
+      "back": "Ekmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Break",
+      "back": "Kırmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Breakfast",
+      "back": "Kahvaltı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Brilliant",
+      "back": "Muhteşem",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bring",
+      "back": "Getirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Broken",
+      "back": "Kırık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Brother",
+      "back": "Erkek kardeş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Brown",
+      "back": "Kahverengi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Brush",
+      "back": "Fırçalamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Build",
+      "back": "Inşa etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Building",
+      "back": "Bina",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Burn",
+      "back": "Yakmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bus",
+      "back": "Otobüs",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Business",
+      "back": "Işletme",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Businessman",
+      "back": "Işadamı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Busy",
+      "back": "Meşgul",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "But",
+      "back": "Fakat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Butter",
+      "back": "Tereyağı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Button",
+      "back": "Düğme",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Buy",
+      "back": "Satın almak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "By",
+      "back": "Tarafından",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Bye",
+      "back": "Güle güle",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cafe",
+      "back": "Kafe",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cake",
+      "back": "Kek, pasta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Call",
+      "back": "Arama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Camera",
+      "back": "Kamera",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Camp",
+      "back": "Kamp",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Camping",
+      "back": "Kamp",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Can",
+      "back": "-ebilmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cannot",
+      "back": "Yapamamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Capital",
+      "back": "Başkent",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Car",
+      "back": "Araba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Card",
+      "back": "Kart",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Care",
+      "back": "Bakım, dikkat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Career",
+      "back": "Kariyer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Careful",
+      "back": "Dikkatli olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Carefully",
+      "back": "Dikkatlice",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Carpet",
+      "back": "Halı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Carrot",
+      "back": "Havuç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Carry",
+      "back": "Taşımak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cartoon",
+      "back": "Karikatür",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Case",
+      "back": "Dava",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cash",
+      "back": "Peşin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Castle",
+      "back": "Kale",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cat",
+      "back": "Kedi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Catch",
+      "back": "Yakalamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cause",
+      "back": "Neden",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cd",
+      "back": "Cd",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Celebrate",
+      "back": "Kutlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Celebrity",
+      "back": "Ünlü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Centre",
+      "back": "Merkez",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Century",
+      "back": "Yüzyıl",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Certain",
+      "back": "Kesin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Certainly",
+      "back": "Kesinlikle",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chair",
+      "back": "Sandalye",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chance",
+      "back": "Şans",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Change",
+      "back": "Değiştirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Character",
+      "back": "Karakter",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Charity",
+      "back": "Hayır kurumu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chart",
+      "back": "Çizelge",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chat",
+      "back": "Sohbet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cheap",
+      "back": "Ucuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Check",
+      "back": "Kontrol etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cheese",
+      "back": "Peynir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chef",
+      "back": "Şef",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chemistry",
+      "back": "Kimya",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chicken",
+      "back": "Tavuk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Child",
+      "back": "Çocuk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chip",
+      "back": "Çip",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Chocolate",
+      "back": "Çikolata",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Choice",
+      "back": "Seçenek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Choose",
+      "back": "Seçmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cinema",
+      "back": "Sinema",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "City",
+      "back": "Şehir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Class",
+      "back": "Sınıf",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Classroom",
+      "back": "Sınıf",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Clean",
+      "back": "Temiz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Climb",
+      "back": "Tırmanmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Clock",
+      "back": "Saat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Close",
+      "back": "Kapalı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Clothes",
+      "back": "Kıyafetler",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Club",
+      "back": "Kulüp",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Coat",
+      "back": "Kaban",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Coffee",
+      "back": "Kahve",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cold",
+      "back": "Soğuk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "College",
+      "back": "Kolej",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Color",
+      "back": "Renk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Come",
+      "back": "Gelmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Common",
+      "back": "Yaygın",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Company",
+      "back": "Şirket",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Compare",
+      "back": "Karşılaştırmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Complete",
+      "back": "Tamamlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Computer",
+      "back": "Bilgisayar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Concert",
+      "back": "Konser",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Contest",
+      "back": "Yarışma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Conversation",
+      "back": "Konuşma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cook",
+      "back": "Aşçı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cooking",
+      "back": "Yemek pişirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cool",
+      "back": "Serin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Correct",
+      "back": "Doğru",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Correspond",
+      "back": "Karşılık vermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cost",
+      "back": "Maliyet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Could",
+      "back": "Olabilir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Country",
+      "back": "Ülke",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Course",
+      "back": "Kurs",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cousin",
+      "back": "Kuzen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cow",
+      "back": "Inek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cream",
+      "back": "Krema",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Create",
+      "back": "Yaratmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Culture",
+      "back": "Kültür",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cup",
+      "back": "Bardak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Customer",
+      "back": "Müşteri",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Cut",
+      "back": "Kesmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dad",
+      "back": "Baba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dance",
+      "back": "Dans",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dancer",
+      "back": "Dansçı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dancing",
+      "back": "Dans",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dangerous",
+      "back": "Tehlikeli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dark",
+      "back": "Karanlık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Date",
+      "back": "Tarih",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Daughter",
+      "back": "Kız çocuğu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Day",
+      "back": "Gün",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dear",
+      "back": "Değerli, sevgili",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "December",
+      "back": "Aralık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Decide",
+      "back": "Karar vermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Definite",
+      "back": "Kesin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Delicious",
+      "back": "Lezzetli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Describe",
+      "back": "Betimlemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Description",
+      "back": "Tanım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Design",
+      "back": "Tasarım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Desk",
+      "back": "Çalışma masası",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Detail",
+      "back": "Detay",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dialogue",
+      "back": "Diyalog",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dictionary",
+      "back": "Sözlük",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Die",
+      "back": "Ölmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Diet",
+      "back": "Diyet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Difference",
+      "back": "Fark",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Different",
+      "back": "Farklı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Difficult",
+      "back": "Zor",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dinner",
+      "back": "Akşam yemeği",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dirty",
+      "back": "Kirli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Discuss",
+      "back": "Tartışmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dish",
+      "back": "Tabak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Do",
+      "back": "Yapmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Doctor",
+      "back": "Doktor",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dog",
+      "back": "Köpek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dollar",
+      "back": "Dolar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Door",
+      "back": "Kapı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Down",
+      "back": "Aşağı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Downstairs",
+      "back": "Alt katta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Draw",
+      "back": "Çizmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dress",
+      "back": "Elbise",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Drink",
+      "back": "Içmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Drive",
+      "back": "Sürmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Driver",
+      "back": "Sürücü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "During",
+      "back": "Sırasında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Dvd",
+      "back": "Dvd",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Each",
+      "back": "Her biri",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ear",
+      "back": "Kulak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Early",
+      "back": "Erken",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "East",
+      "back": "Doğu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Easy",
+      "back": "Kolay",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eat",
+      "back": "Yemek yemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Egg",
+      "back": "Yumurta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eight",
+      "back": "Sekiz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eighteen",
+      "back": "On sekiz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eighty",
+      "back": "Seksen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Elephant",
+      "back": "Fil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eleven",
+      "back": "On bir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Else",
+      "back": "Başka",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Email",
+      "back": "E -posta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "End",
+      "back": "Son",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Enjoy",
+      "back": "Eğlence",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Enough",
+      "back": "Yeterli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Euro",
+      "back": "Euro",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Even",
+      "back": "Eşit",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Evening",
+      "back": "Akşam",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Event",
+      "back": "Etkinlik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ever",
+      "back": "Hiç, her zaman, daima",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Every",
+      "back": "Her",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Everybody",
+      "back": "Herkes",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Everyone",
+      "back": "Herkes",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Everything",
+      "back": "Her şey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Exam",
+      "back": "Sınav",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Example",
+      "back": "Örnek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Excited",
+      "back": "Heyecanlı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Exciting",
+      "back": "Heyecan verici",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Exercise",
+      "back": "Egzersiz yapmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Expensive",
+      "back": "Masraflı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Explain",
+      "back": "Açıklamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Extra",
+      "back": "Ekstra",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Eye",
+      "back": "Göz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Face",
+      "back": "Yüz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fact",
+      "back": "Hakikat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fall",
+      "back": "Düşmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "False",
+      "back": "Yanlış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Family",
+      "back": "Aile",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Famous",
+      "back": "Ünlü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fantastic",
+      "back": "Fantastik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Far",
+      "back": "Uzak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Farm",
+      "back": "Çiftlik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Farmer",
+      "back": "Çiftçi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fast",
+      "back": "Hızlı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fat",
+      "back": "Yağ",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Father",
+      "back": "Baba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Favourite",
+      "back": "Favori",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "February",
+      "back": "Şubat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Feel",
+      "back": "Hissetmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Feeling",
+      "back": "His",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Few",
+      "back": "Bir kaç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fifteen",
+      "back": "Onbeş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fifth",
+      "back": "Beşinci",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fifty",
+      "back": "Elli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fill",
+      "back": "Doldurmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Final",
+      "back": "Final",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Find",
+      "back": "Bulmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fine",
+      "back": "Iyi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fine",
+      "back": "Iyi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Finish",
+      "back": "Bitirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fire",
+      "back": "Ateş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "First",
+      "back": "Birinci",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fish",
+      "back": "Balık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Five",
+      "back": "Beş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Flat",
+      "back": "Düz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Flight",
+      "back": "Uçuş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Floor",
+      "back": "Zemin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Flower",
+      "back": "Çiçek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fly",
+      "back": "Uçmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Follow",
+      "back": "Takip etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Food",
+      "back": "Yiyecek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Foot",
+      "back": "Ayak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Football",
+      "back": "Futbol",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "For",
+      "back": "Için",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Forget",
+      "back": "Unutmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Form",
+      "back": "Biçim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Forty",
+      "back": "Kırk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Four",
+      "back": "Dört",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fourteen",
+      "back": "On dört",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fourth",
+      "back": "Dördüncü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Free",
+      "back": "Ücretsiz, özgür",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Friday",
+      "back": "Cuma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Friend",
+      "back": "Arkadaş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Friendly",
+      "back": "Arkadaşça",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "From",
+      "back": "Itibaren",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Front",
+      "back": "Ön",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fruit",
+      "back": "Meyve",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Full",
+      "back": "Tam dolu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Fun",
+      "back": "Eğlence",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Funny",
+      "back": "Eğlenceli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Future",
+      "back": "Gelecek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Game",
+      "back": "Oyun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Garden",
+      "back": "Bahçe",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Geography",
+      "back": "Coğrafya",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Get",
+      "back": "Elde etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Girl",
+      "back": "Kız",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Girlfriend",
+      "back": "Kız arkadaşı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Give",
+      "back": "Vermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Glass",
+      "back": "Bardak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Go",
+      "back": "Gitmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Good",
+      "back": "Iyi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Goodbye",
+      "back": "Güle güle",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Grandfather",
+      "back": "Büyükbaba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Grandmother",
+      "back": "Büyükanne",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Grandparent",
+      "back": "Büyükanne ve büyükbaba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Great",
+      "back": "Harika",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Green",
+      "back": "Yeşil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Grey",
+      "back": "Gri",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Group",
+      "back": "Grup",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Grow",
+      "back": "Büyümek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Guess",
+      "back": "Tahmin etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Guitar",
+      "back": "Gitar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Gym",
+      "back": "Spor salonu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hair",
+      "back": "Saç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Half",
+      "back": "Yarım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hand",
+      "back": "El",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Happen",
+      "back": "Olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Happy",
+      "back": "Mutlu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hard",
+      "back": "Zor",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hat",
+      "back": "Şapka",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hate",
+      "back": "Nefret",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Have",
+      "back": "Sahip olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "He",
+      "back": "O",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Head",
+      "back": "Kafa",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Health",
+      "back": "Sağlık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Healthy",
+      "back": "Sağlıklı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hear",
+      "back": "Duymak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hello",
+      "back": "Merhaba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Help",
+      "back": "Yardım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Here",
+      "back": "Burada",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hey",
+      "back": "Hey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hi",
+      "back": "Merhaba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "High",
+      "back": "Yüksek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Him",
+      "back": "O",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "His",
+      "back": "Onun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "History",
+      "back": "Tarih",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hobby",
+      "back": "Hobi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Holiday",
+      "back": "Tatil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Home",
+      "back": "Ev",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Homework",
+      "back": "Ev ödevi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hope",
+      "back": "Umut",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Horse",
+      "back": "Atış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hospital",
+      "back": "Hastane",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hot",
+      "back": "Sıcak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hotel",
+      "back": "Otel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hour",
+      "back": "Saat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "House",
+      "back": "Ev",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "How",
+      "back": "Nasıl",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "However",
+      "back": "Yine de",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hundred",
+      "back": "Yüz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Hungry",
+      "back": "Aç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Husband",
+      "back": "Koca",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ice",
+      "back": "Buz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ice cream",
+      "back": "Dondurma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Idea",
+      "back": "Fikir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "If",
+      "back": "Eğer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Imagine",
+      "back": "Hayal etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Important",
+      "back": "Önemli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Improve",
+      "back": "Geliştirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "In",
+      "back": "Içinde",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Include",
+      "back": "Katmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Information",
+      "back": "Bilgi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Interest",
+      "back": "Faiz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Interested",
+      "back": "Ilgili",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Interesting",
+      "back": "Ilginç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Internet",
+      "back": "Internet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Interview",
+      "back": "Röportaj",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Into",
+      "back": "Içine",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Introduce",
+      "back": "Tanıtmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Island",
+      "back": "Ada",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Its",
+      "back": "Onun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Jacket",
+      "back": "Ceket",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "January",
+      "back": "Ocak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Jeans",
+      "back": "Kot",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Job",
+      "back": "Iş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Join",
+      "back": "Katılmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Journey",
+      "back": "Seyahat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Juice",
+      "back": "Meyve suyu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "July",
+      "back": "Temmuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "June",
+      "back": "Haziran",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Just",
+      "back": "Sadece",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Just",
+      "back": "Sadece",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Keep",
+      "back": "Tutmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Key",
+      "back": "Anahtar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Kind",
+      "back": "Tür",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Kitchen",
+      "back": "Mutfak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Know",
+      "back": "Bilmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lamp",
+      "back": "Lamba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Land",
+      "back": "Kara",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Language",
+      "back": "Dil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Large",
+      "back": "Büyük",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Last",
+      "back": "Son",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Late",
+      "back": "Geç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Later",
+      "back": "Daha sonra",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Laugh",
+      "back": "Gülmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Learn",
+      "back": "Öğrenmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Leave",
+      "back": "Ayrılmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Left",
+      "back": "Sol",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Leg",
+      "back": "Bacak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lesson",
+      "back": "Ders",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Let",
+      "back": "Izin vermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Letter",
+      "back": "Mektup",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Library",
+      "back": "Kütüphane",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lie",
+      "back": "Yalan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Life",
+      "back": "Hayat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Light",
+      "back": "Işık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Like",
+      "back": "Beğenmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Line",
+      "back": "Astar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lion",
+      "back": "Aslan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "List",
+      "back": "Liste",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Listen",
+      "back": "Dinlemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Little",
+      "back": "Biraz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Live",
+      "back": "Canlı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Local",
+      "back": "Yerel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Long",
+      "back": "Uzun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Look",
+      "back": "Bakmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lose",
+      "back": "Kaybetmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lot",
+      "back": "Çok",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Love",
+      "back": "Aşk",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Lunch",
+      "back": "Öğle yemeği",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Machine",
+      "back": "Makine",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Magazine",
+      "back": "Dergi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Main",
+      "back": "Ana",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Make",
+      "back": "Yapmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Man",
+      "back": "Adam",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Many",
+      "back": "Birçok",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Map",
+      "back": "Harita",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "March",
+      "back": "Mart",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "March",
+      "back": "Mart",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Marker",
+      "back": "Işaret",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Market",
+      "back": "Pazar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Married",
+      "back": "Evli",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Match",
+      "back": "Kibrit",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "May",
+      "back": "Mayıs",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Maybe",
+      "back": "Belki",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Me",
+      "back": "Ben",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Meal",
+      "back": "Öğün",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mean",
+      "back": "Anlam, ortalama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Meaning",
+      "back": "Anlam",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Meat",
+      "back": "Et",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Meet",
+      "back": "Tanışmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Meeting",
+      "back": "Toplantı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Member",
+      "back": "Üye",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Menu",
+      "back": "Menü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Message",
+      "back": "Mesaj",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Midnight",
+      "back": "Gece yarısı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mile",
+      "back": "Mil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Milk",
+      "back": "Süt",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Million",
+      "back": "Milyon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Minute",
+      "back": "Dakika",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Minute",
+      "back": "Dakika",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Miss",
+      "back": "Kayıp",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mistake",
+      "back": "Hata",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Model",
+      "back": "Model",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Modern",
+      "back": "Modern",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Moment",
+      "back": "An",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Monday",
+      "back": "Pazartesi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Money",
+      "back": "Para",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Month",
+      "back": "Ay",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "More",
+      "back": "Daha",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Morning",
+      "back": "Sabah",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Most",
+      "back": "En",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mother",
+      "back": "Anne",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mountain",
+      "back": "Dağ",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mouse",
+      "back": "Fare",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mouth",
+      "back": "Ağız",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Move",
+      "back": "Hareket",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Movie",
+      "back": "Film",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Much",
+      "back": "Fazla",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Mum",
+      "back": "Anne",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Museum",
+      "back": "Müze",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Music",
+      "back": "Müzik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Must",
+      "back": "Mutlak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "My",
+      "back": "Benim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Name",
+      "back": "Isim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Natural",
+      "back": "Doğal",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Near",
+      "back": "Yakın",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Need",
+      "back": "Ihtiyaç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Negative",
+      "back": "Negatif",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Neighbour",
+      "back": "Komşu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Never",
+      "back": "Asla",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "New",
+      "back": "Yeni",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "News",
+      "back": "Haberler",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Newspaper",
+      "back": "Gazete",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Next",
+      "back": "Sonraki",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Next to",
+      "back": "Yanında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nice",
+      "back": "Güzel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Night",
+      "back": "Gece",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nine",
+      "back": "Dokuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nineteen",
+      "back": "On dokuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ninety",
+      "back": "Doksan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "No",
+      "back": "Hayir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nobody",
+      "back": "Hiç kimse",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "North",
+      "back": "Kuzey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nose",
+      "back": "Burun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Not",
+      "back": "Değil, yok",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Note",
+      "back": "Not",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nothing",
+      "back": "Hiçbir şey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "November",
+      "back": "Kasım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Now",
+      "back": "Şimdi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Number",
+      "back": "Sayı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Nurse",
+      "back": "Hemşire",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Object",
+      "back": "Nesne",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "O'clock",
+      "back": "Saat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "October",
+      "back": "Ekim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Of",
+      "back": "Ile ilgili",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Off",
+      "back": "Kapalı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Office",
+      "back": "Ofis",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Often",
+      "back": "Sıklıkla",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Oh",
+      "back": "Ah",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ok",
+      "back": "Tamam",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Old",
+      "back": "Eskimiş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "On",
+      "back": "Açık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Once",
+      "back": "Bir kere",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "One",
+      "back": "Bir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Onion",
+      "back": "Soğan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Online",
+      "back": "Çevrimiçi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Only",
+      "back": "Sadece",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Open",
+      "back": "Açık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Opinion",
+      "back": "Fikir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Opposite",
+      "back": "Zıt",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Or",
+      "back": "Veya",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Orange",
+      "back": "Turuncu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Order",
+      "back": "Emir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Other",
+      "back": "Diğer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Our",
+      "back": "Bizim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Out",
+      "back": "Dışarı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Outside",
+      "back": "Dıştan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Over",
+      "back": "Üzerinde",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Own",
+      "back": "Sahip olmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Page",
+      "back": "Sayfa",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Paint",
+      "back": "Boyamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Painting",
+      "back": "Tablo",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pair",
+      "back": "Çift",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Paper",
+      "back": "Kağıt",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Paragraph",
+      "back": "Paragraf",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Parent",
+      "back": "Ebeveyn",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Park",
+      "back": "Park",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Part",
+      "back": "Parça",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Partner",
+      "back": "Ortak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Party",
+      "back": "Parti",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Passport",
+      "back": "Pasaport",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Past",
+      "back": "Geçmiş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pay",
+      "back": "Ödemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pen",
+      "back": "Dolma kalem",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pencil",
+      "back": "Kalem",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "People",
+      "back": "Insanlar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pepper",
+      "back": "Biber",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Perfect",
+      "back": "Mükemmel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Period",
+      "back": "Dönem",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Person",
+      "back": "Kişi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Personal",
+      "back": "Kişisel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Phone",
+      "back": "Telefon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Photo",
+      "back": "Fotoğraf",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Photograph",
+      "back": "Fotoğraf",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Phrase",
+      "back": "Ifade",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Piano",
+      "back": "Piyano",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Picture",
+      "back": "Resim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Piece",
+      "back": "Parça",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pig",
+      "back": "Domuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pink",
+      "back": "Pembe",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Place",
+      "back": "Yer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Plan",
+      "back": "Planlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Plane",
+      "back": "Uçak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Plant",
+      "back": "Bitki",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Play",
+      "back": "Oynamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Player",
+      "back": "Oyuncu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pleasant",
+      "back": "Güzel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Please",
+      "back": "Lütfen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Point",
+      "back": "Nokta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Police",
+      "back": "Polis",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Policeman",
+      "back": "Polis",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pool",
+      "back": "Havuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Poor",
+      "back": "Fakir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Popular",
+      "back": "Popüler",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Positive",
+      "back": "Olumlu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Possible",
+      "back": "Olası",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Post",
+      "back": "Postalamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Potato",
+      "back": "Patates",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pound",
+      "back": "Pound",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Practice",
+      "back": "Pratik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Practise",
+      "back": "Pratik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Prefer",
+      "back": "Tercih etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Prepare",
+      "back": "Hazırlanmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Present",
+      "back": "Sunmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Press",
+      "back": "Basmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Pretty",
+      "back": "Tatlı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Price",
+      "back": "Fiyat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Probably",
+      "back": "Muhtemelen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Problem",
+      "back": "Sorun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Product",
+      "back": "Ürün",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Project",
+      "back": "Proje",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Purple",
+      "back": "Mor",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Put",
+      "back": "Koymak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Quarter",
+      "back": "Çeyrek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Question",
+      "back": "Soru",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Quick",
+      "back": "Hızlı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Quickly",
+      "back": "Hızlıca",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Quiet",
+      "back": "Sessizlik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Quite",
+      "back": "Epeyce",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Radio",
+      "back": "Radyo",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Rain",
+      "back": "Yağmur",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Read",
+      "back": "Okumak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Reader",
+      "back": "Okuyucu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Reading",
+      "back": "Okuma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ready",
+      "back": "Hazır",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Real",
+      "back": "Gerçek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Really",
+      "back": "Gerçekten",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Reason",
+      "back": "Sebep",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Red",
+      "back": "Kırmızı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Relax",
+      "back": "Rahat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Remember",
+      "back": "Unutma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Repeat",
+      "back": "Tekrarlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Report",
+      "back": "Rapor, bildirmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Restaurant",
+      "back": "Restoran",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Result",
+      "back": "Sonuç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Return",
+      "back": "Geri dönmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Rice",
+      "back": "Pirinç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Rich",
+      "back": "Zengin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ride",
+      "back": "Sürmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Right",
+      "back": "Sağ, doğru",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "River",
+      "back": "Nehir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Road",
+      "back": "Yol",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Room",
+      "back": "Oda",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Routine",
+      "back": "Rutin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Rule",
+      "back": "Kural",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Run",
+      "back": "Koşmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sad",
+      "back": "Üzücü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Salad",
+      "back": "Salata",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Salt",
+      "back": "Tuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Same",
+      "back": "Aynı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sandwich",
+      "back": "Sandviç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Saturday",
+      "back": "Cumartesi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Say",
+      "back": "Söylemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Say",
+      "back": "Söylemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "School",
+      "back": "Okul",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Science",
+      "back": "Bilim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Scientist",
+      "back": "Bilim adamı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sea",
+      "back": "Deniz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Second",
+      "back": "Ikinci",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Section",
+      "back": "Bölüm",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "See",
+      "back": "Görmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sell",
+      "back": "Satmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Send",
+      "back": "Göndermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sentence",
+      "back": "Cümle",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "September",
+      "back": "Eylül",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Seven",
+      "back": "Yedi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Seventeen",
+      "back": "On yedi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Seventy",
+      "back": "Yetmiş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Share",
+      "back": "Paylaşmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "She",
+      "back": "O",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sheep",
+      "back": "Koyun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Shirt",
+      "back": "Gömlek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Shoe",
+      "back": "Ayakkabı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Shop",
+      "back": "Mağaza",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Shopping",
+      "back": "Alışveriş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Short",
+      "back": "Kısa",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Should",
+      "back": "-meli -malı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Show",
+      "back": "Göstermek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Shower",
+      "back": "Duş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sick",
+      "back": "Hasta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Similar",
+      "back": "Benzer",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sing",
+      "back": "Şarkı söylemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Singer",
+      "back": "Şarkıcı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sister",
+      "back": "Kız kardeş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sit",
+      "back": "Oturmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Situation",
+      "back": "Durum",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Six",
+      "back": "Altı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sixteen",
+      "back": "On altı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sixty",
+      "back": "Altmış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Skill",
+      "back": "Yetenek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Skirt",
+      "back": "Etek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sleep",
+      "back": "Uyumak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Slow",
+      "back": "Yavaş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Small",
+      "back": "Küçük",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Snake",
+      "back": "Yılan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Snow",
+      "back": "Kar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "So",
+      "back": "Bu yüzden",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Some",
+      "back": "Bazı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Somebody",
+      "back": "Biri",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Someone",
+      "back": "Birisi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Something",
+      "back": "Bir şey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sometimes",
+      "back": "Bazen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Son",
+      "back": "Oğul",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Song",
+      "back": "Şarkı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Soon",
+      "back": "Yakında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sorry",
+      "back": "Üzgünüm",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sound",
+      "back": "Ses",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sound",
+      "back": "Ses",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Soup",
+      "back": "Çorba",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "South",
+      "back": "Güney",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Space",
+      "back": "Uzay",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Speak",
+      "back": "Konuşmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Special",
+      "back": "Özel",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Spell",
+      "back": "Hecelemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Spell",
+      "back": "Hecelemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Spelling",
+      "back": "Heceleme",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Spend",
+      "back": "Harcamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sport",
+      "back": "Spor",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Spring",
+      "back": "Bahar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Stand",
+      "back": "Durmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Star",
+      "back": "Yıldız",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Start",
+      "back": "Başlatmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Statement",
+      "back": "Ifade, beyan, açıklama",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Station",
+      "back": "Istasyon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Stay",
+      "back": "Kalmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Still",
+      "back": "Hala",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Stop",
+      "back": "Durmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Story",
+      "back": "Hikaye",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Street",
+      "back": "Sokak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Strong",
+      "back": "Güçlü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Student",
+      "back": "Öğrenci",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Study",
+      "back": "Çalışmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Style",
+      "back": "Stil",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Subject",
+      "back": "Ders",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Success",
+      "back": "Başarı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sugar",
+      "back": "Şeker",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Summer",
+      "back": "Yaz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sun",
+      "back": "Güneş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sunday",
+      "back": "Pazar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Supermarket",
+      "back": "Süpermarket",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sure",
+      "back": "Elbette",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Sweater",
+      "back": "Kazak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Swim",
+      "back": "Yüzmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Swimming",
+      "back": "Yüzme",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Table",
+      "back": "Masa",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Take",
+      "back": "Almak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Talk",
+      "back": "Konuşmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tall",
+      "back": "Uzun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Taxi",
+      "back": "Taksi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tea",
+      "back": "Çay",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Teach",
+      "back": "Öğretmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Teacher",
+      "back": "Öğretmen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Team",
+      "back": "Takım",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Teenager",
+      "back": "Genç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Telephone",
+      "back": "Telefon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Television",
+      "back": "Televizyon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tell",
+      "back": "Söylemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ten",
+      "back": "On",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tennis",
+      "back": "Tenis",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Terrible",
+      "back": "Korkunç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Test",
+      "back": "Test",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Text",
+      "back": "Metin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Than",
+      "back": "Hariç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thank",
+      "back": "Teşekkür etmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thanks",
+      "back": "Teşekkürler",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "That",
+      "back": "O",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "The",
+      "back": ".",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Theatre",
+      "back": "Tiyatro",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Their",
+      "back": "Onların",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Them",
+      "back": "Onlara",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Then",
+      "back": "Daha sonra",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "There",
+      "back": "Orası",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "They",
+      "back": "Onlar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thing",
+      "back": "Şey",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Think",
+      "back": "Düşünmek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Third",
+      "back": "Üçüncü",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thirsty",
+      "back": "Susuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thirteen",
+      "back": "On üç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thirty",
+      "back": "Otuz",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "This",
+      "back": "Bu",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thousand",
+      "back": "Bin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Three",
+      "back": "Üç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Through",
+      "back": "Başından sonuna kadar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Thursday",
+      "back": "Perşembe",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Ticket",
+      "back": "Bilet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Time",
+      "back": "Zaman",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tired",
+      "back": "Yorgun",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Title",
+      "back": "Başlık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "To",
+      "back": "Ile",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Today",
+      "back": "Bugün",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Together",
+      "back": "Birlikte",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Toilet",
+      "back": "Tuvalet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tomato",
+      "back": "Domates",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tomorrow",
+      "back": "Yarın",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tonight",
+      "back": "Bu akşam",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Too",
+      "back": "Fazla",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tooth",
+      "back": "Diş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Topic",
+      "back": "Başlık",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tourist",
+      "back": "Turist",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Town",
+      "back": "Şehir",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Traffic",
+      "back": "Trafik",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Train",
+      "back": "Tren",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Travel",
+      "back": "Seyahat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tree",
+      "back": "Ağaç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Trip",
+      "back": "Seyahat",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Trouser",
+      "back": "Pantolon",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "True",
+      "back": "Gerçek, doğru",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Try",
+      "back": "Denemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "T-shirt",
+      "back": "Tişört",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tuesday",
+      "back": "Salı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Turn",
+      "back": "Dönüş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Tv",
+      "back": "Tv",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Twelve",
+      "back": "On iki",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Twenty",
+      "back": "Yirmi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Twice",
+      "back": "Iki kere",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Two",
+      "back": "Iki",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Type",
+      "back": "Tip",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Umbrella",
+      "back": "Şemsiye",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Uncle",
+      "back": "Amca",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Under",
+      "back": "Altında",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Understand",
+      "back": "Anlamak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Unit",
+      "back": "Birim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "University",
+      "back": "Üniversite",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Until",
+      "back": "Değin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Up",
+      "back": "Yukarı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Upstairs",
+      "back": "Üst katta",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Who",
+      "back": "Kim",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Why",
+      "back": "Neden",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Wife",
+      "back": "Kadın eş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Will",
+      "back": "-ecek -acak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Win",
+      "back": "Kazanç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Window",
+      "back": "Pencere",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Wine",
+      "back": "Şarap",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Winter",
+      "back": "Kış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "With",
+      "back": "Ile, birlikte",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Without",
+      "back": "Olmadan",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Woman",
+      "back": "Kadın",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Wonderful",
+      "back": "Müthiş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Word",
+      "back": "Kelime",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Work",
+      "back": "Iş",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Worker",
+      "back": "Işçi",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "World",
+      "back": "Dünya",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Would",
+      "back": "Istemek",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Write",
+      "back": "Yazmak",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Writer",
+      "back": "Yazar",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Writing",
+      "back": "Yazma",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Wrong",
+      "back": "Yanlış",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Yeah",
+      "back": "Evet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Year",
+      "back": "Yıl",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Yellow",
+      "back": "Sarı",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Yes",
+      "back": "Evet",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Yesterday",
+      "back": "Dün",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "You",
+      "back": "Sen",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Young",
+      "back": "Genç",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Your",
+      "back": "Senin",
+      "frontImage": null,
+      "backImage": null
+    },
+    {
+      "front": "Yourself",
+      "back": "Kendin",
+      "frontImage": null,
+      "backImage": null
+    }
+  ]
+}
