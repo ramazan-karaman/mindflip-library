@@ -25,7 +25,7 @@
     "description": "Oxford listesinden en sık kullanılan kelimeler.",
     "category": "Dil",
     "level": "Başlangıç",
-    "cardCount": 500, 
+    "cardCount": 923, 
     "remoteUrl": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/decks/oxford_a1_temel.json",
     "coverImage": null
   }
