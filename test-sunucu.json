@@ -6,7 +6,7 @@
     "category": "Test",
     "level": "Uzman",
     "cardCount": 10,
-    "remoteUrl": "https://raw.githubusercontent.com/ramazan-karaman/mindflip-library/main/decks/oxford_a1_temel.json",
+    "remoteUrl": null,
     "coverImage": null
   }
 ]
